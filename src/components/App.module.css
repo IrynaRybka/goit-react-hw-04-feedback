@@ -1,0 +1,32 @@
+.container {
+    margin-left: 50px;
+    margin-top: 50px;
+  }
+
+  ul {
+    padding: 0;
+    list-style-type: none;
+  }
+  li {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 5px;
+  }
+  button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 0;
+    background-color: #283F91;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+    box-shadow: darkslategray 1px 5px 10px;
+    cursor: pointer;
+  }
+  button:hover, button:focus {
+    background-color: #1d2d68;
+    box-shadow: darkslategray 1px 1px 1px;
+}
+p {
+    font-size: 24px;
+}

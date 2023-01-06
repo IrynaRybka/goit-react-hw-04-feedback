@@ -1,0 +1,16 @@
+.transaction_history {
+    max-width: 700px;
+    background-color: rgb(233, 230, 230);
+    margin: 20px;
+}
+th {
+    background-color:rgb(210, 208, 208);
+    padding: 20px 20px;
+    width: 200px;
+}
+td {
+    text-align: center;
+    padding: 10px 20px;
+    border-bottom: 1px rgb(210, 208, 208) solid;
+
+}
